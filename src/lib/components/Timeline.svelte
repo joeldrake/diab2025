@@ -5,38 +5,27 @@
 		<div class="timeline-box">
 			<h3>2025</h3>
 			<p>
-				Continuing to work as a consultant, on the retail web app. The project's scope and the team
-				have grown over the years. It’s a great employer, with a modern and rewarding tech stack,
-				and fantastic colleagues.
+				Continuing consulting work with the same project and team from 2019. The project's scope and
+				the team have grown over the years.
 			</p>
 
 			<h3>2019</h3>
 			<p>Joined a team building a web app for a major retail company in Sweden.</p>
 
 			<h3>2015</h3>
-			<p>
-				Launched a tech startup called Infoping together with ett.se. Infoping is a communication
-				service based on SMS and push notifications.
-			</p>
+			<p>Launched a tech startup called Infoping together with ett.se.</p>
 
 			<h3>2013</h3>
-
 			<p>Studied Copywriting at Berghs School of Communication (evening course).</p>
 
 			<h3>2012</h3>
 			<p>Studied Graphic Design at Berghs School of Communication (evening course).</p>
 
 			<h3>2011</h3>
-			<p>
-				Started a company called ett.se together with colleagues from OpenText. Here, we were able
-				to focus more on the development of our own products and services.
-			</p>
+			<p>Started a company called ett.se together with colleagues from OpenText.</p>
 
 			<h3>2008</h3>
-			<p>
-				Started as tech support at OpenText. The product I supported was an email and collaboration
-				system.
-			</p>
+			<p>Started as tech support at OpenText.</p>
 		</div>
 	</div>
 </section>

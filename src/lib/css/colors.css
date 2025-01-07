@@ -2,10 +2,7 @@
 	--color-text-primary: #222;
 	--color-text-subtle: #767676;
 	--color-background-primary: #fff;
-	--color-background-secondary: #e7e3da;
-	--color-grey: #eee;
-	--color-off-white: #edf0f2;
-	--color-work: #ffdd18;
+	--color-background-secondary: #eee;
 	--color-interactive-primary: #005cef;
 
 	--site-error-lighter: #f7d4d6;
@@ -35,4 +32,11 @@
 	--border: #dadce0;
 	--focus-border: var(--site-success);
 	--focus-shadow: 0 0 0 1px var(--site-success);
+}
+
+[data-theme='dark'] {
+	--color-text-primary: #fff;
+	--color-background-primary: #222;
+	--color-interactive-primary: #fff;
+	--border: #666666;
 }
