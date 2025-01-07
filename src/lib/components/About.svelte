@@ -2,29 +2,28 @@
 	<div class="about-inner">
 		<p>Hi,<br />I am a <strong>web developer</strong> from Stockholm, Sweden.</p>
 		<p>
-			I’ve been building websites since I was young, and in my professional life, it’s always been
-			something I’ve gravitated toward. Today, it is my profession.
+			I’ve been building websites since I was young, and in my professional life, I’ve naturally
+			gravitated toward it. Today, it’s not just my passion but also my profession.
 		</p>
 		<p>
-			I started out as tech support at a Canadian IT company in 2008. This eventually led to a
-			spin-off a few years later into the startup world. Both of these experiences are something I
-			draw on today, as a <strong>consultant building a web app</strong> for a major retail company in
-			Sweden.
+			My career began in 2008 as tech support at a Canadian IT company. A few years later, I
+			transitioned into the startup world, an experience that has greatly shaped my perspective.
+			Both roles continue to influence my work today, as I consult on building a web app for a major
+			retail company in Sweden.
 		</p>
 		<p>
-			I have a <strong>passion for open source</strong> in web development. I follow many developers
+			I have a <strong>passion for open source</strong> in web development. I actively follow developers
 			and projects in this space and see it as part of my expertise to know and navigate this world.
 		</p>
 		<p>
-			Starting a new web project in 2025 is an art form. Choosing a suitable tech stack is only step
-			one. Next comes laying the foundation for a thoughtful architecture that makes the project
-			scalable. After that, it’s about establishing a style guide that keeps the codebase
-			maintainable. These are examples of challenges I have extensive experience with and love to
-			solve.
+			Starting a new web project in 2025 is an art form. Choosing a suitable tech stack is only the
+			beginning. From there, it’s about designing a thoughtful architecture that ensures scalability
+			and establishing a robust style guide to keep the codebase maintainable. These are examples of
+			challenges I have extensive experience with and love to solve.
 		</p>
 		<p>
 			Feel free to <a href="#contact">reach out</a> if you'd like to hear more about my perspective on
-			what makes a great web experience, both for end users and developers.
+			creating great web experiences, for both end users and developers.
 		</p>
 		<p>
 			Best regards, <br />
