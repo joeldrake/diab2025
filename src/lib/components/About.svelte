@@ -2,14 +2,14 @@
 	<div class="about-inner">
 		<p>Hi,<br />I am a <strong>web developer</strong> from Stockholm, Sweden.</p>
 		<p>
-			I’ve been building websites since I was young, and in my professional life, I’ve naturally
-			gravitated toward it. Today, it’s not just my passion but also my profession.
+			I’ve been building websites since I was young, and in my professional life, it’s always been
+			something I’ve gravitated toward. Today, it is my profession.
 		</p>
 		<p>
-			My career began in 2008 as tech support at a Canadian IT company. A few years later, I
-			transitioned into the startup world, an experience that has greatly shaped my perspective.
-			Both roles continue to influence my work today, as I consult on building a web app for a major
-			retail company in Sweden.
+			I started out as tech support at a north american IT company in 2008. This eventually led to a
+			spin-off a few years later into the startup world. Both of these experiences are something I
+			draw on today, as a <strong>consultant building a web app</strong> for a major retail company in
+			Sweden.
 		</p>
 		<p>
 			I have a <strong>passion for open source</strong> in web development. I actively follow developers
