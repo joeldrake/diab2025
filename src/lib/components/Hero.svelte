@@ -60,19 +60,20 @@
 
 	.hero__darkmode-toggle {
 		position: absolute;
-		top: 0.5rem;
-		right: 0.5rem;
+		top: 0.75rem;
+		right: 0.75rem;
 		border: none;
 		text-decoration: none;
 		background: none;
 		cursor: pointer;
 		color: #222;
+		padding: 0;
 	}
 
 	@media screen and (max-width: 300px) {
 		.hero__darkmode-toggle {
-			top: 0.15rem;
-			right: 0.1rem;
+			top: 0.5rem;
+			right: 0.5rem;
 		}
 	}
 
