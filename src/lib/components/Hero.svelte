@@ -5,8 +5,6 @@
 	function handleDarkmodeClick() {
 		const newTheme = theme === 'dark' ? 'light' : 'dark';
 
-		console.log('newTheme', newTheme);
-
 		document?.querySelector('html')?.setAttribute('data-theme', newTheme);
 
 		localStorage.setItem('theme', newTheme);
@@ -65,9 +63,10 @@
 		top: 0.5rem;
 		right: 0.5rem;
 		border: none;
-
+		text-decoration: none;
 		background: none;
 		cursor: pointer;
+		color: #222;
 	}
 
 	@media screen and (max-width: 300px) {
@@ -96,16 +95,11 @@
 	h1 {
 		font-size: min(5rem, 9vw);
 		line-height: 1;
+		color: #222;
 
 		font-family:
 			Times,
 			Times New Roman,
 			Serif;
-	}
-
-	:global([data-theme='dark']) {
-		.hero-inner {
-			color: #222;
-		}
 	}
 </style>

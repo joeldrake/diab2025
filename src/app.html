@@ -8,7 +8,7 @@
 		%sveltekit.head%
 
 		<script>
-			const prefersDarkTheme = window.matchMedia('(prefers-color-scheme: dark)');
+			const prefersDarkTheme = window.matchMedia('(prefers-color-scheme: dark)')?.matches;
 			let theme = localStorage.getItem('theme');
 			if (!theme && prefersDarkTheme) theme = 'dark';
 			if (theme) document?.querySelector('html').setAttribute('data-theme', theme);
