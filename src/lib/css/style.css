@@ -1,0 +1,67 @@
+:root {
+	--page-width: 960px;
+	--page-padding: 2rem;
+	--page-padding-large: calc(var(--page-padding) * 2);
+}
+
+@media screen and (max-width: 600px) {
+	:root {
+		--page-padding: 1rem;
+	}
+}
+
+html,
+body {
+	background-color: var(--color-background-primary);
+	font-family:
+		'Inter',
+		-apple-system,
+		'Helvetica Neue',
+		Helvetica,
+		Arial,
+		sans-serif;
+
+	color: var(--color-text-primary);
+}
+
+hr {
+	border: 0;
+	border-bottom: 0.25rem solid var(--color-text-primary);
+	margin: 1rem 0;
+}
+
+h1,
+h2,
+p {
+	margin: 1.2rem 0;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 2.25rem;
+}
+
+h3 {
+	font-size: 1.75rem;
+}
+
+@media screen and (max-width: 600px) {
+	h1 {
+		font-size: 3rem;
+	}
+
+	h2 {
+		font-size: 1.75rem;
+	}
+
+	h3 {
+		font-size: 1.5rem;
+	}
+}
+
+a {
+	color: var(--color-interactive-primary);
+}

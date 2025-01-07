@@ -1,0 +1,15 @@
+{
+	"name": "Drake Innovation",
+	"short_name": "Drake Innovation",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#673ab8",
+	"icons": [
+		{
+			"src": "/icon.jpg",
+			"type": "image/jpg",
+			"sizes": "512x512"
+		}
+	]
+}
