@@ -5,11 +5,20 @@
 	function handleDarkmodeClick() {
 		const newTheme = theme === 'dark' ? 'light' : 'dark';
 
-		document?.querySelector('html')?.setAttribute('data-theme', newTheme);
-
 		localStorage.setItem('theme', newTheme);
 
-		theme = newTheme;
+		function changeDom() {
+			theme = newTheme;
+			document?.querySelector('html')?.setAttribute('data-theme', newTheme);
+		}
+
+		if (!document.startViewTransition) {
+			changeDom();
+		} else {
+			document.startViewTransition(() => {
+				changeDom();
+			});
+		}
 	}
 </script>
 
