@@ -5,27 +5,44 @@
 		<div class="timeline-box">
 			<h3>2025</h3>
 			<p>
-				Continuing consulting work with the same project and team from 2019. The project's scope and
-				the team have grown over the years.
+				Continued deepening of knowledge in retail within the same project, where both the scope and
+				the team have grown.
+			</p>
+			<p>
+				<i>Skill level: Senior web developer.</i>
 			</p>
 
 			<h3>2019</h3>
 			<p>Joined a team building a web app for a major retail company in Sweden.</p>
+			<p>
+				<i>Skill add-ons: Vue, GraphQL, Typescript, Svelte.</i>
+			</p>
 
 			<h3>2015</h3>
 			<p>Launched a tech startup called Infoping together with ett.se.</p>
+			<p>
+				<i>Skill level: Front end web developer using React.</i>
+			</p>
 
 			<h3>2013</h3>
 			<p>Studied Copywriting at Berghs School of Communication (evening course).</p>
+			<p>
+				<i>Skill upgrades: Idea generation, Communication, Project briefs, Language, Rhetoric.</i>
+			</p>
 
 			<h3>2012</h3>
 			<p>Studied Graphic Design at Berghs School of Communication (evening course).</p>
+			<p>
+				<i>Skill upgrades: Web Design, Typography, Color, Layout.</i>
+			</p>
 
 			<h3>2011</h3>
 			<p>Started a company called ett.se together with colleagues from OpenText.</p>
+			<p><i>Skill level: Niched on web using PHP + jQuery.</i></p>
 
 			<h3>2008</h3>
 			<p>Started as tech support at OpenText.</p>
+			<p><i>Skill level: All-around techie.</i></p>
 		</div>
 	</div>
 </section>
