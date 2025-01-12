@@ -1,34 +1,19 @@
 <section class="about">
 	<div class="about-inner">
-		<p>Hi,<br />I am a <strong>web developer</strong> from Stockholm, Sweden.</p>
+		<p>Hi,<br />I’m a <strong>web developer</strong> based in Stockholm, Sweden.</p>
 		<p>
-			I’ve been building websites since I was young, and in my professional life, it’s always been
-			something I’ve gravitated toward. Today, it is my profession.
+			I have been working in tech since 2008. Did some heavy-duty PHP + jQuery back in the day and
+			eventually got on the React bandwagon.
 		</p>
 		<p>
-			I started out as tech support at a north american IT company in 2008. This eventually led to a
-			spin-off a few years later into the startup world. Both of these experiences are something I
-			draw on today, as a <strong>consultant building a web app</strong> for a major retail company in
-			Sweden.
+			Since 2019, I’ve been part of a team building a web app for a major retail company in Sweden.
+			We use Vue + TypeScript + GraphQL and it has been great to work with.
 		</p>
 		<p>
-			I have a <strong>passion for open source</strong> in web development. I actively follow developers
-			and projects in this space and see it as part of my expertise to know and navigate this world.
+			Big fan of open source in web development, in general, and projects like Svelte, Vue, Deno and
+			Preact in particular.
 		</p>
-		<p>
-			Starting a new web project in 2025 is an art form. Choosing a suitable tech stack is only the
-			beginning. From there, it’s about designing a thoughtful architecture that ensures scalability
-			and establishing a robust style guide to keep the codebase maintainable. These are examples of
-			challenges I have extensive experience with and love to solve.
-		</p>
-		<p>
-			Feel free to <a href="#contact">reach out</a> if you'd like to hear more about my perspective on
-			creating great web experiences, for both end users and developers.
-		</p>
-		<p>
-			Best regards, <br />
-			Joel Drake
-		</p>
+		<p>I like to be where there are good people and technical innovation.</p>
 	</div>
 </section>
 
