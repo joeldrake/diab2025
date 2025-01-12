@@ -65,3 +65,14 @@ h3 {
 a {
 	color: var(--color-interactive-primary);
 }
+
+.page-section {
+	display: flex;
+	justify-content: center;
+}
+
+.page-section-inner {
+	width: 100%;
+	max-width: 768px;
+	padding: var(--page-padding);
+}

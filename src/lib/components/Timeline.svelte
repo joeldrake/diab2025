@@ -1,5 +1,5 @@
-<section class="timeline">
-	<div class="timeline-inner">
+<section class="timeline page-section">
+	<div class="timeline-inner page-section-inner">
 		<h2>Professional Timeline</h2>
 
 		<div class="timeline-box">
@@ -32,15 +32,7 @@
 
 <style>
 	.timeline {
-		display: flex;
-		justify-content: center;
 		--border-width: 3px;
-	}
-
-	.timeline-inner {
-		width: 100%;
-		max-width: 768px;
-		padding: var(--page-padding);
 	}
 
 	.timeline-box {

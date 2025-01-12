@@ -38,16 +38,6 @@
 		justify-content: center;
 	}
 
-	h3 {
-		font-size: 2.25rem;
-	}
-
-	@media screen and (max-width: 600px) {
-		h3 {
-			font-size: 1.75rem;
-		}
-	}
-
 	.about-inner {
 		width: 100%;
 		max-width: 768px;

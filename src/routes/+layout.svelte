@@ -1,5 +1,6 @@
 <script>
 	import '$lib/css/reset.css';
+	import '$lib/css/openProps.css';
 	import '$lib/css/colors.css';
 	import '$lib/css/style.css';
 </script>

@@ -1,5 +1,5 @@
-<section class="footer">
-	<div class="footer-inner">
+<section class="footer page-section">
+	<div class="footer-inner page-section-inner">
 		<h2 id="contact">Contact</h2>
 		<p>Send me an email or a message on social media if you want to get in touch with me.</p>
 		<p class="mail-link"><a href="mailto:joel@drakeinnovation.se">joel@drakeinnovation.se</a></p>
@@ -43,8 +43,6 @@
 
 <style>
 	.footer {
-		display: flex;
-		justify-content: center;
 		background-color: var(--color-text-primary);
 		color: var(--color-background-primary);
 	}
@@ -57,12 +55,6 @@
 
 	a:hover {
 		text-decoration: underline;
-	}
-
-	.footer-inner {
-		width: 100%;
-		max-width: 768px;
-		padding: var(--page-padding);
 	}
 
 	.footer-inner > p:last-child {
