@@ -1,6 +1,6 @@
 <section class="about">
 	<div class="about-inner">
-		<p>Hi,<br />I’m a <strong>Senior Web Developer</strong> based in Stockholm, Sweden.</p>
+		<p>I’m a <strong>Senior Web Developer</strong> based in Stockholm, Sweden.</p>
 		<p>
 			I have been working in tech since 2008. Did some heavy-duty PHP + jQuery back in the day and
 			eventually got on the React bandwagon.

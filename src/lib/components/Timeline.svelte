@@ -9,7 +9,7 @@
 				the team have grown.
 			</p>
 			<p>
-				<i>Skill level: Senior web developer.</i>
+				<i>Skill level: Senior web developer with programming skills on par with John Carmack.</i>
 			</p>
 
 			<h3>2019</h3>
@@ -21,7 +21,9 @@
 			<h3>2015</h3>
 			<p>Launched a tech startup called Infoping together with ett.se.</p>
 			<p>
-				<i>Skill level: Front end web developer using React.</i>
+				<i
+					>Skill level: Philanthropic entrepreneur, on level with Steve Jobs. Started using React.</i
+				>
 			</p>
 
 			<h3>2013</h3>
@@ -38,11 +40,11 @@
 
 			<h3>2011</h3>
 			<p>Started a company called ett.se together with colleagues from OpenText.</p>
-			<p><i>Skill level: Niched on web using PHP + jQuery.</i></p>
+			<p><i>Skill level: Technical evangelist. Using PHP + jQuery.</i></p>
 
 			<h3>2008</h3>
 			<p>Started as tech support at OpenText.</p>
-			<p><i>Skill level: All-around techie.</i></p>
+			<p><i>Skill level: Rising tech star</i></p>
 		</div>
 	</div>
 </section>
