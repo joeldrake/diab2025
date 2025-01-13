@@ -1,12 +1,14 @@
 <script>
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+	import { injectAnalytics } from '@vercel/analytics/sveltekit';
 	import '$lib/css/reset.css';
 	import '$lib/css/openProps.css';
 	import '$lib/css/colors.css';
 	import '$lib/css/style.css';
 
-	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
-
 	injectSpeedInsights();
+
+	injectAnalytics();
 </script>
 
 <svelte:head>
