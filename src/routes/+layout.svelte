@@ -3,6 +3,10 @@
 	import '$lib/css/openProps.css';
 	import '$lib/css/colors.css';
 	import '$lib/css/style.css';
+
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+
+	injectSpeedInsights();
 </script>
 
 <svelte:head>
