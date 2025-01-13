@@ -10,7 +10,7 @@
 			We use Vue + TypeScript + GraphQL and it has been great to work with.
 		</p>
 		<p>
-			Big fan of open source in web development, in general, and projects like Svelte, Vue, Deno and
+			Big fan of open source in web development in general, and projects like Svelte, Vue, Deno and
 			Preact in particular.
 		</p>
 		<p>I like to be where there are good people and technical innovation.</p>

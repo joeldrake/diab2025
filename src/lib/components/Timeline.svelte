@@ -6,45 +6,51 @@
 			<h3>2025</h3>
 			<p>
 				Continued deepening of knowledge in retail within the same project, where both the scope and
-				the team have grown.
-			</p>
-			<p>
-				<i>Skill level: Senior web developer with programming skills on par with John Carmack.</i>
+				the team have grown.<br />
+				<i>
+					Skill level: Senior web developer. Programming skills starting to reach John Carmack
+					levels.
+				</i>
 			</p>
 
 			<h3>2019</h3>
-			<p>Joined a team building a web app for a major retail company in Sweden.</p>
 			<p>
-				<i>Skill add-ons: Vue, GraphQL, Typescript, Svelte.</i>
+				Joined a team building a web app for a major retail company in Sweden.<br />
+				<i>Skill upgrades: Vue, GraphQL, Typescript, Svelte.</i>
 			</p>
 
 			<h3>2015</h3>
-			<p>Launched a tech startup called Infoping together with ett.se.</p>
 			<p>
-				<i
-					>Skill level: Philanthropic entrepreneur, on level with Steve Jobs. Started using React.</i
-				>
+				Launched a tech startup called Infoping together with ett.se.<br />
+				<i>
+					Skill level: Philanthropic entrepreneur. Like Bill Gates but without the money. Started
+					using React.
+				</i>
 			</p>
 
 			<h3>2013</h3>
-			<p>Studied Copywriting at Berghs School of Communication (evening course).</p>
 			<p>
+				Studied Copywriting at Berghs School of Communication (evening course).<br />
 				<i>Skill upgrades: Idea generation, Communication, Project briefs, Language, Rhetoric.</i>
 			</p>
 
 			<h3>2012</h3>
-			<p>Studied Graphic Design at Berghs School of Communication (evening course).</p>
 			<p>
+				Studied Graphic Design at Berghs School of Communication (evening course).<br />
 				<i>Skill upgrades: Web Design, Typography, Color, Layout.</i>
 			</p>
 
 			<h3>2011</h3>
-			<p>Started a company called ett.se together with colleagues from OpenText.</p>
-			<p><i>Skill level: Technical evangelist. Using PHP + jQuery.</i></p>
+			<p>
+				Started a company called ett.se together with colleagues from OpenText.<br />
+				<i>Skill level: Technical evangelist. Using PHP + jQuery.</i>
+			</p>
 
 			<h3>2008</h3>
-			<p>Started as tech support at OpenText.</p>
-			<p><i>Skill level: Rising tech star</i></p>
+			<p>
+				Started as tech support at OpenText.<br />
+				<i>Skill level: Rising tech star</i>
+			</p>
 		</div>
 	</div>
 </section>
@@ -52,6 +58,11 @@
 <style>
 	.timeline {
 		--border-width: 3px;
+	}
+
+	i {
+		color: var(--color-text-subtle);
+		font-size: 0.9rem;
 	}
 
 	.timeline-box {
