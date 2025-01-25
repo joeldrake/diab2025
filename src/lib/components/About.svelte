@@ -7,13 +7,13 @@
 		</p>
 		<p>
 			Since 2019, I’ve been part of a team building a web app for a major retail company in Sweden.
-			We use Vue + TypeScript + GraphQL and it has been great to work with.
+			We use Vue + TypeScript + GraphQL, and it is great to work with.
 		</p>
 		<p>
 			Big fan of open source in web development in general, and projects like Svelte, Vue, Deno and
 			Preact in particular.
 		</p>
-		<p>I like to be where there are good people and technical innovation.</p>
+		<p>I like to be where there are good people and modern tech.</p>
 	</div>
 </section>
 

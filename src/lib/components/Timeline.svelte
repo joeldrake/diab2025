@@ -5,8 +5,8 @@
 		<div class="timeline-box">
 			<h3>2025</h3>
 			<p>
-				Continued deepening of knowledge in retail within the same project, where both the scope and
-				the team have grown.<br />
+				Feeling privileged to continue working on the same retail project. Good team, fun tech stack
+				and interesting challenges.<br />
 				<i>
 					Skill level: Senior web developer. Programming skills starting to reach John Carmack
 					levels.
