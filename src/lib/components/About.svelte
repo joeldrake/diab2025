@@ -7,7 +7,8 @@
 		</p>
 		<p>
 			Since 2019, I’ve been part of a team building a web app for a major retail company in Sweden.
-			We use Vue + TypeScript + GraphQL, and it is great to work with.
+			We use Vue + TypeScript + GraphQL, and it's a joy to work with. I take pride in calling myself
+			a <strong>front-end expert.</strong>
 		</p>
 		<p>
 			Big fan of open source in web development in general, and projects like Svelte, Vue, Deno and
