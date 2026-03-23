@@ -14,7 +14,10 @@
 			Big fan of open source in general, and projects like Svelte, Vue, Deno and Preact in
 			particular.
 		</p>
-		<p>Currently finding excitement in performance optimization and local-first architecture.</p>
+		<p>
+			Currently finding excitement in performance optimization and local-first software
+			architecture.
+		</p>
 	</div>
 </section>
 
