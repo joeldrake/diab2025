@@ -14,10 +14,7 @@
 			Big fan of open source in general, and projects like Svelte, Vue, Deno and Preact in
 			particular.
 		</p>
-		<p>
-			Currently finding excitement in exploring ways to use AI as a tool to help me and my team ship
-			new stuff faster and smarter.
-		</p>
+		<p>Currently finding excitement in performance optimization and local-first architecture.</p>
 	</div>
 </section>
 
