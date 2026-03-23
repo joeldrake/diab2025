@@ -3,7 +3,7 @@
 		<h2>Professional Timeline</h2>
 
 		<div class="timeline-box">
-			<h3>2025</h3>
+			<h3>2026</h3>
 			<p>
 				Feeling privileged to continue working on the same retail project. Good team, fun tech stack
 				and interesting challenges.<br />
