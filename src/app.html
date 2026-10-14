@@ -8,10 +8,19 @@
 		%sveltekit.head%
 
 		<script>
-			const prefersDarkTheme = window.matchMedia('(prefers-color-scheme: dark)')?.matches;
-			let theme = localStorage.getItem('theme');
-			if (!theme && prefersDarkTheme) theme = 'dark';
-			if (theme) document?.querySelector('html').setAttribute('data-theme', theme);
+			(function () {
+				var preference = 'system';
+				try {
+					var stored = localStorage.getItem('theme');
+					if (stored === 'light' || stored === 'dark') preference = stored;
+				} catch (e) {}
+				var dark =
+					preference === 'dark' ||
+					(preference === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+				var root = document.documentElement;
+				root.setAttribute('data-theme', dark ? 'dark' : 'light');
+				root.setAttribute('data-theme-preference', preference);
+			})();
 		</script>
 	</head>
 	<body data-sveltekit-preload-data="hover">

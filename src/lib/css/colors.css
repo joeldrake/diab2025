@@ -1,4 +1,5 @@
 :root {
+	color-scheme: light;
 	--color-text-primary: var(--gray-9);
 	--color-text-subtle: var(--gray-6);
 	--color-background-primary: #fff;
@@ -8,6 +9,7 @@
 }
 
 [data-theme='dark'] {
+	color-scheme: dark;
 	--color-text-primary: #fff;
 	--color-background-primary: var(--gray-9);
 	--color-background-secondary: var(--gray-8);
