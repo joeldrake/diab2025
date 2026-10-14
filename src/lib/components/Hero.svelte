@@ -1,7 +1,7 @@
 <script lang="ts">
-	import { browser } from '$app/environment';
+	import { browser } from '$app/env';
 	const html = browser ? document?.querySelector('html') : undefined;
-	let theme = html?.getAttribute('data-theme');
+	let theme = $state(html?.getAttribute('data-theme'));
 	function handleDarkmodeClick() {
 		const newTheme = theme === 'dark' ? 'light' : 'dark';
 

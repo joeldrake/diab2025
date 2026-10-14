@@ -2,21 +2,19 @@
 	<div class="about-inner">
 		<p>I’m a <strong>Senior Web Developer</strong> based in Stockholm, Sweden.</p>
 		<p>
-			I have been working in tech since 2008. Did some PHP + jQuery back in the day and eventually
-			got on the React bandwagon.
+			I've worked in tech since 2008, and over that time I've been part of the shift from jQuery to
+			React and Vue, then from JavaScript to TypeScript, and most recently the move from handwritten
+			code to agentic development.
 		</p>
 		<p>
-			Since 2019, I’ve been part of a team building a web app for a major retail company in Sweden.
-			We use Vue + TypeScript + GraphQL, and it's a joy to work with. I consider myself a
-			<strong>front-end expert.</strong>
+			Since 2019, I've been part of a team building a web app for one of Sweden's largest retailers.
+			I'm a <strong>front-end expert</strong>, and my current focus is on performance optimization
+			and local-first software architecture.
 		</p>
 		<p>
-			Big fan of open source in general, and projects like Svelte, Vue, Deno and Preact in
-			particular.
-		</p>
-		<p>
-			Currently finding excitement in performance optimization and local-first software
-			architecture.
+			It's an exciting environment to work in, especially this past year. A lot is changing, and the
+			new world of software development is taking shape right in front of us as we build our
+			product.
 		</p>
 	</div>
 </section>

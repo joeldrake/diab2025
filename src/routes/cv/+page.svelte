@@ -3,7 +3,7 @@
 	<p class="CV__info">
 		<strong>Joel Drake, 1985/05/20</strong>
 		<br />
-		Surbrunnsgatan 11, <span class="CV__address_under">114 27, Stockholm</span>
+		Furuvägen 23, <span class="CV__address_under">187 64, Täby</span>
 		<br />
 		+46 (0) 70 692 32 25
 		<br />
